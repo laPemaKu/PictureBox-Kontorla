@@ -1,0 +1,10 @@
+C:\Users\ucenik\Documents\Luka Radetic\PictureBox Kontrola\bin\Debug\PictureBox Kontrola.exe.config
+C:\Users\ucenik\Documents\Luka Radetic\PictureBox Kontrola\bin\Debug\PictureBox Kontrola.exe
+C:\Users\ucenik\Documents\Luka Radetic\PictureBox Kontrola\bin\Debug\PictureBox Kontrola.pdb
+C:\Users\ucenik\Documents\Luka Radetic\PictureBox Kontrola\obj\Debug\PictureBox Kontrola.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\Luka Radetic\PictureBox Kontrola\obj\Debug\PictureBox_Kontrola.Form1.resources
+C:\Users\ucenik\Documents\Luka Radetic\PictureBox Kontrola\obj\Debug\PictureBox_Kontrola.Properties.Resources.resources
+C:\Users\ucenik\Documents\Luka Radetic\PictureBox Kontrola\obj\Debug\PictureBox Kontrola.csproj.GenerateResource.cache
+C:\Users\ucenik\Documents\Luka Radetic\PictureBox Kontrola\obj\Debug\PictureBox Kontrola.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\Luka Radetic\PictureBox Kontrola\obj\Debug\PictureBox Kontrola.exe
+C:\Users\ucenik\Documents\Luka Radetic\PictureBox Kontrola\obj\Debug\PictureBox Kontrola.pdb
